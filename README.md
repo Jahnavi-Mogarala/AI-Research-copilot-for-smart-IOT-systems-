@@ -2,6 +2,7 @@
 ### Powered by VinRaVS Intelligence Engine
 
 JKUAD VinRaVS 2502 is a premium, enterprise-grade AI Research Platform and IoT Anomaly Engine designed with luxury Silicon Valley design standards. It leverages a Next.js 15 frontend styled in dark matte crimson and a high-performance FastAPI backend.
+implemeted using :
 
 The platform provides live telemetry monitoring, autonomous AI diagnostics, and a cited RAG question-answering search engine using FAISS indexing.
 
