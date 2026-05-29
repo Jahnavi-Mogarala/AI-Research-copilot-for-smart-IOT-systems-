@@ -7,7 +7,7 @@ The platform provides live telemetry monitoring, autonomous AI diagnostics, and 
 
 ---
 
-## ⚡ Core Features
+## Core Features
 1. **Premium Analytics Telemetry Dashboard**: Real-time websocket-driven chart grids illustrating Temperature, Humidity, Pressure, Gas levels, Power consumption, and UPS Battery health.
 2. **AI Research Copilot (RAG)**: Chat interface that queries real-time sensors, history logs, and manual guidelines with full text-citations and step-by-step cognitive reasoning dropdowns.
 3. **Autonomous Diagnostic Agent**: Constantly monitors telemetry trends, generates predictive maintenance reports, and triggers active alerts.
@@ -16,7 +16,20 @@ The platform provides live telemetry monitoring, autonomous AI diagnostics, and 
 
 ---
 
-## 🏗️ Architecture Flow Diagram
+
+
+https://github.com/user-attachments/assets/75727bb0-9e84-4e61-b540-771f7110b768
+
+
+
+https://github.com/user-attachments/assets/dda9d9c4-910c-48f7-89ed-1102cd2ef634
+
+
+
+https://github.com/user-attachments/assets/22fa102c-b6e5-46fe-bfcc-c7219487316e
+
+
+##  Architecture Flow Diagram
 
 ```mermaid
 graph TD
@@ -36,7 +49,7 @@ graph TD
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### Option A: Quickstart via Docker Compose (Recommended)
 Make sure you have Docker and Docker Compose installed.
@@ -94,7 +107,7 @@ Make sure you have Docker and Docker Compose installed.
 
 ---
 
-## 🔑 Default Credentials & Access Keys
+##  Default Credentials & Access Keys
 - **Default OTP Code**: `123456` or `2502`
 - **Default Developer / Researcher Account**: Register any email; it will request the OTP. Once registered, log in using the credentials and enter `123456` on the OTP page.
 - **Access Roles**:
@@ -102,5 +115,3 @@ Make sure you have Docker and Docker Compose installed.
   - `Researcher`: RAG access and analytics charts.
   - `Admin`: User directories, roles cycle, and system parameters override.
 
----
-*Created with ♥ by the JKUAD team. Powered by VinRaVS Intelligence.*
