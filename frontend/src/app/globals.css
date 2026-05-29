@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #050202;
+    color: #e2e8f0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+/* Custom premium scrollbars for a luxury dark UI */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050202;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b0305;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9e161c;
+}
+
+/* Glassmorphic card styling helper */
+.luxury-glass {
+  background: rgba(18, 7, 7, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(158, 22, 28, 0.15);
+}
+
+.luxury-glass:hover {
+  border: 1px solid rgba(255, 62, 70, 0.25);
+  box-shadow: 0 0 20px rgba(158, 22, 28, 0.1);
+}
+
+/* Glowing text */
+.text-glow {
+  text-shadow: 0 0 10px rgba(255, 62, 70, 0.5), 0 0 20px rgba(255, 62, 70, 0.2);
+}
+
+.text-gold-glow {
+  text-shadow: 0 0 10px rgba(220, 165, 76, 0.4);
+}
+
+/* Premium animated gradient line */
+.gradient-line {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #ff3e46, #dca54c, transparent);
+  background-size: 200% 100%;
+  animation: shimmer 4s infinite linear;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
