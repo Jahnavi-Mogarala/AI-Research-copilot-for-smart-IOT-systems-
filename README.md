@@ -18,13 +18,6 @@ The platform provides live telemetry monitoring, autonomous AI diagnostics, and 
 
 
 
-https://github.com/user-attachments/assets/75727bb0-9e84-4e61-b540-771f7110b768
-
-
-
-https://github.com/user-attachments/assets/dda9d9c4-910c-48f7-89ed-1102cd2ef634
-
-
 
 https://github.com/user-attachments/assets/22fa102c-b6e5-46fe-bfcc-c7219487316e
 
