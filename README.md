@@ -1,6 +1,9 @@
 # JKUAD VinRaVS 2502 — AI Research Copilot for Smart IoT Systems
 ### Powered by VinRaVS Intelligence Engine
 
+https://jahnavi-mogarala.github.io/AI-Research-copilot-for-smart-IOT-systems-/
+
+
 JKUAD VinRaVS 2502 is a premium, enterprise-grade AI Research Platform and IoT Anomaly Engine designed with luxury Silicon Valley design standards. It leverages a Next.js 15 frontend styled in dark matte crimson and a high-performance FastAPI backend.
 
 The platform provides live telemetry monitoring, autonomous AI diagnostics, and a cited RAG question-answering search engine using FAISS indexing.
