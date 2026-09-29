@@ -1,4 +1,4 @@
-# JKUAD VinRaVS 2502 — AI Research Copilot for Smart IoT Systems
+# JKUAD VinRaVS  — AI Research Copilot for Smart IoT Systems
 ### Powered by VinRaVS Intelligence Engine
 
 https://jahnavi-mogarala.github.io/AI-Research-copilot-for-smart-IOT-systems-/
